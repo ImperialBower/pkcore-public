@@ -66,6 +66,8 @@ watch it here on [YouTube](https://www.youtube.com/watch?v=vjM60lqRhPg).
 
 `cargo run --example the_hand`
 
+### [cck](examples/cck.rs)
+
 [cck](examples/cck.rs) is a simple command line program that prints out a poker hand's 
 [Cactus Kev](https://suffe.cool/poker/evaluator.html) value.
 
@@ -178,6 +180,8 @@ The River: 8♦
 cargo run --example calc -- -d  "6♠ 6♥ 5♦ 5♣" -b "9♣ 6♦ 5♥ 5♦ 8♦"
 Elapsed: 484.90ms
 ```
+
+### GTO
 
 A preliminary GTO combo string calculatore is available at [gto](examples/gto.rs). Here's an example
 that shows how a player would fare against an opponent with a common opening range. 
