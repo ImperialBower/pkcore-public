@@ -481,7 +481,7 @@ Motto
 Failure is a gift.
 
 I am a failure. I've been a failure all my life. I’ve dropped out of college three times. I graduated from high school with a D average. I’ve lost every professional French Horn audition I’ve ever taken. 
-(I did win first horn at the California State Honor Band, but all the other horn players were so mad that I'd won that didn't talk to me, so I was miserable the whole time.)
+(I did win first horn at the California State Honor Band, but all the other horn players were so mad that I'd won that didn't talk to me, so I was miserable the whole time.) For a period of time I was homeless. (Ask me about sleeping in the San Francisco Symphony's Davies Symphony Hall musician's lounge.)
 
 In the fifth grade, I got the silver medal for having the second-worst car in the Cub Scouts Pinewood Derby. I would have been last, but the Scout Master from a rival troupe took 
 the wheel that had fallen off from one of his kids' cars, hammered it back onto the car, and stole first from me by deliberately creating a car that wouldn’t roll. I even failed at failure. I was the worst. I should have gotten the gold, but no, I was the second worst. If you’re not last, you’re…?
