@@ -46,8 +46,6 @@ To open the generated docs in your browser:
 Some of the library and examples will be looking for a `.env` file in the root of the project. Simply copy 
 `.env.example` to `.env` and modify as needed.
 
-```shell
-
 ## Documentation
 
 For comprehensive API documentation, run:
